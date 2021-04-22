@@ -1,7 +1,7 @@
 # SQL
 
 ### PySpark SQL
-* Account Payable
+* Accounts Payable
 * Creaating View Table
 
 ### T-SQL
